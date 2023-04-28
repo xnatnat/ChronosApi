@@ -56,5 +56,5 @@ Se possível:
 
 ------------
 
-Feito com ♥ por [xnatnat](https://www.linkedin.com/in/xnatnat/ "xnatnat").
+Feito com ♥ por [xnatnat](https://www.linkedin.com/in/xnatnat/ "xnatnat") e [motaNT](https://github.com/NatashaMota "motaNT").
 
