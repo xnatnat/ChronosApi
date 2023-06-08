@@ -1,4 +1,4 @@
-# ChronosAPI
+# ⏳ ChronosAPI
 
 <p> Projeto <strong>API RESTful</strong>  <!--<a href="https://dio.me/"><strong> Digital Innovation One</strong></a>--><br>
 
